@@ -25,6 +25,7 @@ Hey, so i was wondering... Can you help me make a project, or my own website, or
 
 ## People
 [Blue Edge](https://github.com/blueedgetechno) (for helping me about the checkmark)
+
 [Me](https://github.com/YTFactsGithub)
 
 ## Home
